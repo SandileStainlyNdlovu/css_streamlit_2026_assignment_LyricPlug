@@ -54,7 +54,7 @@ if menu == "Home":
     We celebrate the rich musical heritage of Africa by providing lyrics in:
     - **Afrikaans** - Die taal van ons hart
     - **isiZulu** - uLimi lwasekhaya
-    - **Sesotho** - Puo
+    - **Sesotho** - Puo ya rona
     - And many more African languages!
     """)
     
@@ -278,3 +278,4 @@ elif menu == "Contact":
     st.write("**Office Location:** Bloemfontein, Free State, South Africa")
 
     st.write("*Celebrating African Melodies, one lyric at a time*")
+
