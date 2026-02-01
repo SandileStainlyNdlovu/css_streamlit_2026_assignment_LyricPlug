@@ -43,6 +43,7 @@ sesotho_songs = pd.DataFrame({
 
 # Sections based on menu selection
 if menu == "Home":
+    st.image("LyricPlug_logo.jpg")
     st.title("LyricPlug")
     st.subheader("Transcribing African Melodies")
     
@@ -275,4 +276,5 @@ elif menu == "Contact":
     
     st.write("---")
     st.write("**Office Location:** Bloemfontein, Free State, South Africa")
+
     st.write("*Celebrating African Melodies, one lyric at a time*")
