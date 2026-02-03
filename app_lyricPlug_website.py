@@ -256,7 +256,7 @@ elif menu == "Contact":
         st.subheader("Get in Touch")
         st.write("**Email:** info@lyricPlug.co.za")
         st.write("**Social Media:**")
-        st.write("- Twitter: @LyricPlug")
+        st.write("- X: @LyricPlug")
         st.write("- Instagram: @LyricPlug")
         st.write("- Facebook: LyricPlug Official")
     
@@ -278,4 +278,5 @@ elif menu == "Contact":
     st.write("**Office Location:** Bloemfontein, Free State, South Africa")
 
     st.write("*Celebrating African Melodies, one lyric at a time*")
+
 
